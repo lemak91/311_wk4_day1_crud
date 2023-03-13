@@ -49,12 +49,12 @@ Let's delete the appropriate information from `usersContact`, `usersAddress` and
 
 ## SQL Statements
 
-1. INSERT two users:
+1. INSERT two users: done
 
 
-2. UPDATE all Ohio addresses to "REDACTED":
+2. UPDATE all Ohio addresses to "REDACTED": done
 
-3. All three DELETES
+3. All three DELETES: done
 
 * DELETE from usersContact
 
